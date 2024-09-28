@@ -19,7 +19,7 @@ A web application that replicates the basic functionalities of Netflix, allowing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/idaraabasiudoh/netflix-clone.git
    ```
    
 2. Install dependencies:
